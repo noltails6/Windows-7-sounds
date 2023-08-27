@@ -16,7 +16,8 @@
     "pop_sound.wav",
     "deck_ui_volume.wav"
   ]
-  "mappings": {
+
+  ,"mappings": {
     "deck_ui_typing.wav": ["sounds/Windows Navigation Start.wav"],
     "ui_steam_smoother_friend_join.m4a": ["sounds/Windows Notify.wav"],
     "ui_steam_smoother_friend_online.m4a": ["sounds/Windows Logon Sound.wav"],
