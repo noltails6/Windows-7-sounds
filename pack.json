@@ -28,20 +28,19 @@
   "deck_ui_slider_up.wav",
   "deck_ui_switch_toggle_off.wav",
   "deck_ui_switch_toggle_on.wav",
-  "deck_ui_tab_transition_01.wav",
   "deck_ui_tile_scroll.wav",
-  "deck_ui_toast.wav",
+  ,
   "deck_ui_volume.wav",
-  "pop_sound.wav",
-  "steam_at_mention.m4a",
-  "steam_chatroom_notification.m4a",
-  "ui_steam_message_old_smooth.m4a",
-  
+  "pop_sound.wav"
 ]
   "mappings": {
    "deck_ui_typing.wav": ["sounds/Windows Navigation Start.wav"],
    "ui_steam_smoother_friend_join.m4a": ["sounds/Windows Notify.wav"],
    "ui_steam_smoother_friend_online.m4a": ["sounds/Windows Logon Sound.wav"],
-   
+   "deck_ui_tab_transition_01.wav": ["sounds/Speech Disambiguation.wav"],
+   "ui_steam_message_old_smooth.m4a": ["sounds/Windows Notify.wav"],
+   "steam_chatroom_notification.m4a": ["sounds/Windows Notify.wav"],
+   "steam_at_mention.m4a": ["sounds/Windows Notify.wav"]
+   "deck_ui_toast.wav": ["sounds/Windows Notify.wav"]
   }
 }
