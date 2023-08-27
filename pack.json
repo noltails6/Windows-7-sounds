@@ -6,16 +6,16 @@
   "manifest_version": 2,
   "music": false,
   "ignore": [
-  "bumper_end.wav",
-  "confirmation_negative.wav",
-  "confirmation_positive.wav",
-  "deck_ui_message_toast.wav",
-  "deck_ui_misc_01.wav",
-  "deck_ui_misc_08.wav",
-  "deck_ui_tile_scroll.wav",
-  "pop_sound.wav",
-  "deck_ui_volume.wav"
-]
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_message_toast.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "deck_ui_tile_scroll.wav",
+    "pop_sound.wav",
+    "deck_ui_volume.wav"
+  ]
   "mappings": {
     "deck_ui_typing.wav": ["sounds/Windows Navigation Start.wav"],
     "ui_steam_smoother_friend_join.m4a": ["sounds/Windows Notify.wav"],
